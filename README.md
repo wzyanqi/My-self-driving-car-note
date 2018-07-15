@@ -8,17 +8,21 @@
 > - 线性代数
 > - 高等数学（如泰勒级数，泰勒展开，噪声分布，统计，概率，加减乘除等）
 
+
 ### 笔记架构
 #### 1. 计算机视觉与深度学习
 1.1 深度学习
 #### 2.传感器融合，定位，控制
 2.1 卡尔曼滤波  
-2.2 定位
+- [什么是卡尔曼滤波](https://github.com/wzyanqi/My-self-driving-car-note/blob/master/Sensor-Fusion/what-is-kalman-filter.md)
+
+2.2 定位  
 2.3 PID控制
 #### 3.路径规划与ROS开发
 3.1 路径规划  
 3.2 ROS开发  
 3.3 系统集成  
+
 
 ### 学习资料
 #### 无人驾驶
