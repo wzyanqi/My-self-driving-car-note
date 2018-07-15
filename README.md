@@ -29,10 +29,18 @@
 1. MIT 课程录像(腾讯有中文翻译版)
 > 有资深老司机给学生们普及无人车相关知识。没有任何背景也可以愉快的观看涉及的内容相当宽。从感知到决策到最后控制都有涉猎[MIT 6.S094: Deep Learning for Self-Driving Cars](https://selfdrivingcars.mit.edu)
 > 
+
 2. [Baidu Apollo](https://github.com/ApolloAuto/apollo)  
 百度开发apollo自动驾驶框架，目前已经很国内的数十家整车厂签订了协同开发合作。而且最棒的是，它是完全开源的！  
 > 很多代码都是可以在apollo的代码库里找到的。代码藏得很深，不多基本都在src文件夹里面。根据大神们编好的代码，我们可以快速的学习如何构建代码。里面涉及的语言有linux，c++，c，python。
 
+3. Udacity 无人驾驶课程三部曲  
+[无人驾驶第一课：从 Apollo 起步](https://cn.udacity.com/course/self-driving-car-fundamentals-featuring-apollo--ud0419)（免费）  
+[无人驾驶入门](https://cn.udacity.com/course/intro-to-self-driving-cars--nd113-cn)（付费）  
+[无人驾驶工程师](https://cn.udacity.com/course/intro-to-self-driving-cars--nd113-cn)（付费）
+
+
 #### ROS书籍
 - [Learning ROS for_Robotics Programming](https://github.com/AaronMR/Learning_ROS_for_Robotics_Programming_2nd_edition) ROS电子书
 - [视觉slam十四讲](https://github.com/gaoxiang12/slambook) ROS书籍代码
+- 概率机器人，Sebastian THRUN
