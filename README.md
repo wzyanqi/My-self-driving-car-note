@@ -5,7 +5,7 @@
 > - Linux操作（很多设备，都是基于linux开发的）
 > - python（使用人工智能库）
 > - 车辆动力学（无人车层面的车辆模型，自行车模型就够了）
-> - 线性代数
+> - 线性代数（矩阵运算）
 > - 高等数学（如泰勒级数，泰勒展开，噪声分布，统计，概率，加减乘除等）
 
 
@@ -14,12 +14,16 @@
 1.1 深度学习
 #### 2.传感器融合，定位，控制
 2.1 卡尔曼滤波  
+
 - [什么是卡尔曼滤波](https://github.com/wzyanqi/My-self-driving-car-note/blob/master/Sensor-Fusion/what-is-kalman-filter.md)
 
 2.2 定位  
 2.3 PID控制
 #### 3.路径规划与ROS开发
 3.1 路径规划  
+
+- A*路径算法
+
 3.2 ROS开发  
 3.3 系统集成  
 
@@ -39,6 +43,8 @@
 [无人驾驶入门](https://cn.udacity.com/course/intro-to-self-driving-cars--nd113-cn)（付费）  
 [无人驾驶工程师](https://cn.udacity.com/course/intro-to-self-driving-cars--nd113-cn)（付费）
 
+4. **[Red Blob Games](https://www.redblobgames.com)**  
+一个用数学和计算机科学来教你开发游戏的博客，但里面的路径规划、地图构建的知识都是相同的。非常推荐！
 
 #### ROS书籍
 - [Learning ROS for_Robotics Programming](https://github.com/AaronMR/Learning_ROS_for_Robotics_Programming_2nd_edition) ROS电子书
